@@ -1,1 +1,1 @@
-# Testing to hsot a static website
+# Testing to host a static website
