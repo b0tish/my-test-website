@@ -4,5 +4,13 @@
 }
 
 body{
-	background:black;
+	background:red;
+	color:white;
+}
+
+.my-column{
+	background: black;
+	text-align: center;
+	min-height: 100px;
+	margin-bottom: 30px;
 }
